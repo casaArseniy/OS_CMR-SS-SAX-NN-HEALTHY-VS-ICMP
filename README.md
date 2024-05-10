@@ -38,6 +38,6 @@ DL_CMR_NP/
 ### Architecture
 - NN had 3D Convolution and Pooling layers, see .ipynb file for details.
 
-### Fitting and Testing
+### Fitting and Testing (Preliminary -> To Be Improved)
 - Epochs: 10
 - Testing Accuracy: 83%
