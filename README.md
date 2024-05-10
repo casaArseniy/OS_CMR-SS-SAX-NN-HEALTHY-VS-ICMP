@@ -40,4 +40,4 @@ DL_CMR_NP/
 
 ### Fitting and Testing (Preliminary -> To Be Improved)
 - Epochs: 10
-- Testing Accuracy: 83%
+- Test Accuracy: 83%
