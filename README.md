@@ -33,11 +33,11 @@ DL_CMR_NP/
 ### Input Dataset
 - Training/validation/testing split was 60/20/20%
 - Training data augmented with left-right and up-down flips.
-- Batch size: 16 
+- Batch size: 8 
 
 ### Architecture
 - NN had 3D Convolution and Pooling layers, see .ipynb file for details.
 
 ### Fitting and Testing (Preliminary -> To Be Improved)
 - Epochs: 10
-- Test Accuracy: 87.5%
+- Test Accuracy: 95.8%
