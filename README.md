@@ -31,7 +31,7 @@ DL_CMR_NP/
 - Tenserflow 2.15.0
 
 ### Input Dataset
-- Training/testing spilt was 60/40
+- Training/validation/testing split was 60/20/20
 - Training data augmented with left-right and up-down flips.
 - Batch size: 16 
 
@@ -40,4 +40,4 @@ DL_CMR_NP/
 
 ### Fitting and Testing (Preliminary -> To Be Improved)
 - Epochs: 10
-- Test Accuracy: 83%
+- Test Accuracy: 87.5%
