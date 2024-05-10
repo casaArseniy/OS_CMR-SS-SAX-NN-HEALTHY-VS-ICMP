@@ -4,7 +4,7 @@ Using Deep Learning to discriminate between healthy and ischemic cardiomyopathy 
 
 ## Dataset
 - Dataset compiled by expert clinicians at the Royal Victoria Hospital of the McGill University Health Centre.
-- 120 cases (60/60 split).
+- 120 cases (50/50% classes split).
 - Each case has a single slice (SS) short-axis view (SAX) sequence of images.
 - Each sequence has 20 images.
 - Each image has a corresponding mask of the left ventricle (LV).
@@ -31,7 +31,7 @@ DL_CMR_NP/
 - Tenserflow 2.15.0
 
 ### Input Dataset
-- Training/validation/testing split was 60/20/20
+- Training/validation/testing split was 60/20/20%
 - Training data augmented with left-right and up-down flips.
 - Batch size: 16 
 
