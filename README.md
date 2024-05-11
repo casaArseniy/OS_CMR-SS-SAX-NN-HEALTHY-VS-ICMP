@@ -13,7 +13,7 @@ Using Deep Learning to discriminate between healthy and ischemic cardiomyopathy 
 ## Pre-processing
 - From initial images, LV square area was extracted using mask min and max coordinate values.
 - Resulting sequences were padded and stacked into a numpy array (20, 60, 60).
-- Images were saved into the following dataset:
+- Sequences were saved into the following dataset:
 
 ```
 DL_CMR_NP/
