@@ -34,13 +34,13 @@ DL_CMR_NP/
 - Training/validation/testing split was 60/20/20%
 - Training data augmented with left-right and up-down flips.
 - Normalized with division by 255.
-- Batch size: 8 
+- Batch size: 16 
 
 ### Architecture
 - NN had 3D Convolution and Pooling layers, see .ipynb file for details.
 
 ### Fitting and Testing 
-- Epochs: 10 with early stop after 5 consecutive non-improving val_loss.
+- Epochs: 30 epochs
 - 5-fold cross-validation.
-- Individual fold test accuracies: [0.8333333134651184, 0.9166666865348816, 0.9166666865348816, 0.9583333134651184, 0.7916666865348816]
-- Average Test Accuracy: 88%
+- Individual fold test accuracies: [1.0, 0.9583333134651184, 1.0, 1.0, 1.0]
+- Average Test Accuracy:  99%
