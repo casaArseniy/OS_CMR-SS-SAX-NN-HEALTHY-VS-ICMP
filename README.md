@@ -40,7 +40,7 @@ DL_CMR_NP/
 - NN had 3D Convolution and Pooling layers, see .ipynb file for details.
 
 ### Fitting and Testing 
-- Epochs: 30 epochs
+- Epochs: 30
 - 5-fold cross-validation.
 - Individual fold test accuracies: [1.0, 0.9583333134651184, 1.0, 1.0, 1.0]
 - Average Test Accuracy:  99%
