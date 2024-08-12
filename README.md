@@ -37,15 +37,3 @@ DL_CMR_NP/
 
 ### Architecture
 - NN had 3D Convolution and Pooling layers, see .ipynb file for details.
-
-### Fitting and Testing 
-- <b>5-fold cross-validation.</b>
-  - Epochs: 30
-  - Batch size: 16 
-  - Individual fold test accuracies: [1.0, 0.9583333134651184, 1.0, 1.0, 1.0]
-  - Average Test Accuracy:  99%
-
-- <b>Single run.</b>
-  - Epochs: 30
-  - Batch size: 8 
-  - Test Accuracy:  97%
