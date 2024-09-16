@@ -1,4 +1,4 @@
-# OS_CMR-SS-SAX-NN-HEALTHY-VS-ICMP
+# OS_CMR-SS-SAX-NN-HEALTHY-VS-ICMP (SCMR 2025)
 
 Using Deep Learning to discriminate between healthy and ischemic cardiomyopathy (ICMP) cases from Oxygenation-sensitive cardiac magnetic resonance imaging (OS-CMR). 
 
