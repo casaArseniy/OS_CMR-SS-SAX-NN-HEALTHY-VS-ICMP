@@ -31,9 +31,9 @@ DL_CMR_NP/
 - Tenserflow 2.15.0
 
 ### Input Dataset
-- Training/validation/testing split was 60/20/20%
+- Training/validation/testing split was 60/20/30%
 - Training data augmented with left-right and up-down flips.
 - Normalized with division by 255.
 
 ### Architecture
-- NN had 3D Convolution and Pooling layers, see .ipynb file for details.
+- see .ipynb file for details.
